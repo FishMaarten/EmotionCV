@@ -11,7 +11,7 @@ Challenge: Train a model to pick up on sequence of emotions through video feed
 
 # Researched topics
 *Document your research here
-
+[fastai]https://docs.fast.ai/#Learning-fastai
 # Kaggle dataset
 We used [this kaggle](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset) dataset containing ~36k images.  
 The labels covered the emotions: angry, disgust, fear, happy, neutral, sad and surprise.
