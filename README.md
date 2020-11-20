@@ -28,3 +28,6 @@ CV2 can be set up with a small latency which gives our model a brief window to b
 - [torch_complete.ipynb](https://github.com/FishMaarten/EmotionCV/blob/main/notebooks/torch_complete.ipynb) Complete into to PyTorch
 - [emotion_classifier2.ipynb](https://github.com/FishMaarten/EmotionCV/blob/main/notebooks/emotion_classifier2.ipynb) Implementing CNN, GRU and LSTM
 - [camera_stream.ipynb](https://github.com/FishMaarten/EmotionCV/blob/main/notebooks/camera_stream.ipynb) OpenCV camera feed to model predict
+
+# PyQT5 mini-app to test and compare models with Webcam
+With QTDesigner a mini-application was built to deliver a Python GUI using PyQT5. When running the app, a live webcam video stream can be processed and evaluated by a selection of trained models we created.
